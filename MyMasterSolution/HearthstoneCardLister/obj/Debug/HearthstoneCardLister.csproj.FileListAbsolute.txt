@@ -1,0 +1,78 @@
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardLister.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardLister.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\MahApps.Metro.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\System.Windows.Interactivity.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\EntityFramework.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\Newtonsoft.Json.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\HearthstonCardDataTool.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\MahApps.Metro.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\MahApps.Metro.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\EntityFramework.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\bin\Debug\Newtonsoft.Json.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstoneCardLister.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\MainWindow.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\App.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstonCardLister_MarkupCompile.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstonCardLister_MarkupCompile.lref
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\App.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\MainWindow.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstonCardLister.g.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\CardApp.Properties.Resources.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstoneCardLister.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\WpfApp2\obj\Debug\HearthstonCardLister.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\System.Windows.Interactivity.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.lref
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.g.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\CardApp.Properties.Resources.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe.config
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\System.Windows.Interactivity.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe.config
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.g.cs
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.g.cs
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.cache
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.lref
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.baml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.baml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.g.resources
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\CardApp.Properties.Resources.resources
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.exe
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.pdb

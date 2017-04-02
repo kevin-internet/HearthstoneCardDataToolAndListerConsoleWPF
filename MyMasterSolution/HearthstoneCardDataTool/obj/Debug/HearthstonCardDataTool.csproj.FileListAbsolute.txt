@@ -1,0 +1,31 @@
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\HearthstonCardDataTool.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\EntityFramework.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\EntityFramework.SqlServer.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\Newtonsoft.Json.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\EntityFramework.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\EntityFramework.SqlServer.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\bin\Debug\Newtonsoft.Json.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\MainConsole.Migrations.InitialCreate.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt2.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\HearthstonCardDataTool.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\MyMasterSolution\MainConsole\obj\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\HearthstonCardDataTool.exe.config
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\HearthstonCardDataTool.pdb
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.SqlServer.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\Newtonsoft.Json.dll
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.SqlServer.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\Newtonsoft.Json.xml
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\HearthstonCardDataTool.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.InitialCreate.resources
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt.resources
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt2.resources
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\HearthstonCardDataTool.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\HearthstonCardDataTool.exe
+F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\HearthstonCardDataTool.pdb
