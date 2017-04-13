@@ -74,6 +74,10 @@ namespace MainConsole.Classes
     {
     }
 
+    public class JourneyToUnGoro : Card
+    {
+    }
+
     public class RootObject
     {
         public List<Basic> Basic { get; set; }
@@ -107,6 +111,9 @@ namespace MainConsole.Classes
 
         [JsonProperty("Hero Skins")]
         public List<HeroSkin> HeroSkins { get; set; }
+
+        [JsonProperty("Journey to Un'Goro")]
+        public List<JourneyToUnGoro> JourneyToUnGoro { get; set; }
 
 
         public List<Mission> Missions { get; set; }

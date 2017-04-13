@@ -8,6 +8,7 @@ using Newtonsoft.Json;
 using System.Data;
 using System.IO;
 using System.Data.Entity.Validation;
+using System.Reflection;
 
 namespace MainConsole.Classes
 {
@@ -47,6 +48,7 @@ namespace MainConsole.Classes
             RootObject cards = JsonConvert.DeserializeObject<RootObject>(jsonContent);
 
             List<Card> listAllCards = new List<Card>();
+
             listAllCards.AddRange(cards.Basic);
             listAllCards.AddRange(cards.BlackrockMountain);
             listAllCards.AddRange(cards.Classic);
@@ -59,12 +61,12 @@ namespace MainConsole.Classes
             listAllCards.AddRange(cards.Missions);
             listAllCards.AddRange(cards.Naxxramas);
             listAllCards.AddRange(cards.Promo);
-            listAllCards.AddRange(cards.Reward);
             //List<sys> listCardsSystem = cards.System; // this is empty in the json web api
             listAllCards.AddRange(cards.TavernBrawl);
             listAllCards.AddRange(cards.TheGrandTournament);
             listAllCards.AddRange(cards.TheLeagueofExplorers);
             listAllCards.AddRange(cards.WhispersoftheOldGods);
+            listAllCards.AddRange(cards.JourneyToUnGoro);
 
             foreach (var item in listAllCards)
             {
