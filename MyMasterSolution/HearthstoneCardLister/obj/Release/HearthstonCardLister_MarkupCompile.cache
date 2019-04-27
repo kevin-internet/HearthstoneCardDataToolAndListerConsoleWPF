@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Release\
 CardApp
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\App.xaml
 11151548125
 
-9-912551197
-16153253408
+5-2017746502
+16-90081236
 MainWindow.xaml;
 
 True
