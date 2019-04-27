@@ -381,6 +381,38 @@ namespace MainConsole
                 Console.WriteLine("DONE writing CSV file.");
             }
 
+            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + "HS_Card_Mechanics.csv", FileMode.Create))
+            using (TextWriter writer = new StreamWriter(fs))
+            {
+                builder.Clear();
+                builder.Append("Mechanic_name,Card_cardId,cardMechanicId");
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("WRITING header columns to Mechanic CSV file...");
+                writer.WriteLine(builder);
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("WRITING rows to Mechanic CSV file...");
+
+                foreach (var item in listCards)
+                {
+                    if (item.mechanics != null)
+                    {
+                        for (int i = 0; i < item.mechanics.Count; i++)
+                        {
+
+                            builder.Clear();
+                            builder.Append(Escape(item.mechanics[i].name) + "," + Escape(item.cardId) + "," + Escape(item.mechanics[i].cardMechanicId.ToString()));
+
+                            writer.WriteLine(builder);
+                        }
+                    }
+                }
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("DONE writing mechanic CSV file.");
+            }
+
             Console.WriteLine("\r\n");
             Console.WriteLine("----------------------");
 

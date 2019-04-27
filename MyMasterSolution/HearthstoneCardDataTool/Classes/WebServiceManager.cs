@@ -67,6 +67,14 @@ namespace MainConsole.Classes
             listAllCards.AddRange(cards.TheLeagueofExplorers);
             listAllCards.AddRange(cards.WhispersoftheOldGods);
             listAllCards.AddRange(cards.JourneyToUnGoro);
+            //
+            listAllCards.AddRange(cards.KnightsOfTheFrozenThrone);
+            listAllCards.AddRange(cards.KoboldsAndCatacombs);
+            listAllCards.AddRange(cards.TheWitchwood);
+            listAllCards.AddRange(cards.TheBoomsdayProject);
+            listAllCards.AddRange(cards.RastakhansRumbles);
+            listAllCards.AddRange(cards.RiseofShadows);
+            //listAllCards.AddRange(cards.KnightsOfTheFrozenThrone);
 
             foreach (var item in listAllCards)
             {

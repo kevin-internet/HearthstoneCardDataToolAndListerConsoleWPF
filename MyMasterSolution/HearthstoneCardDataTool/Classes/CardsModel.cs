@@ -78,6 +78,34 @@ namespace MainConsole.Classes
     {
     }
 
+    public class KnightsoftheFrozenThrone : Card
+    {
+    }
+
+    public class KoboldsAndCatacombs : Card
+    {
+    }
+
+    public class TheWitchwood : Card
+    {
+    }
+
+    public class TheBoomsdayProject : Card
+    {
+    }
+
+    public class RastakhansRumble : Card
+    {
+    }
+
+    public class RiseofShadows : Card
+    {
+    }
+
+
+
+
+
     public class RootObject
     {
         public List<Basic> Basic { get; set; }
@@ -101,6 +129,7 @@ namespace MainConsole.Classes
         [JsonProperty("Whispers of the Old Gods")]
         public List<WhispersOfTheOldGod> WhispersoftheOldGods { get; set; }
 
+        [JsonProperty("One Night in Karazhan")]
         public List<Karazhan> Karazhan { get; set; }
 
         [JsonProperty("Mean Streets of Gadgetzan")]
@@ -114,6 +143,25 @@ namespace MainConsole.Classes
 
         [JsonProperty("Journey to Un'Goro")]
         public List<JourneyToUnGoro> JourneyToUnGoro { get; set; }
+
+        [JsonProperty("Knights of the Frozen Throne")]
+        public List<KnightsoftheFrozenThrone> KnightsOfTheFrozenThrone { get; set; }
+
+        [JsonProperty("Kobolds & Catacombs")]
+        public List<KoboldsAndCatacombs> KoboldsAndCatacombs { get; set; }
+
+        [JsonProperty("The Witchwood")]
+        public List<TheWitchwood> TheWitchwood { get; set; }
+
+        [JsonProperty("The Boomsday Project")]
+        public List<TheBoomsdayProject> TheBoomsdayProject { get; set; }
+
+        [JsonProperty("Rastakhan's Rumble")]
+        public List<RastakhansRumble> RastakhansRumbles { get; set; }
+
+        [JsonProperty("Rise of Shadows")]
+        public List<RiseofShadows> RiseofShadows { get; set; }
+
 
 
         public List<Mission> Missions { get; set; }
