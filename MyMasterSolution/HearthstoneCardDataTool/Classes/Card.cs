@@ -32,7 +32,9 @@ namespace MainConsole.Classes
         public string faction { get; set; }
         public int? health { get; set; }
         public bool? collectible { get; set; }
-        public string img { get; set; }
+        public string img { get { return "https://art.hearthstonejson.com/v1/render/latest/enUS/512x/" + cardId.ToString() + ".png"; } }
+        public string imgSource { get { return "https://art.hearthstonejson.com/v1/orig/" + cardId.ToString() + ".png"; } }
+        public string imgIcon { get { return "https://art.hearthstonejson.com/v1/tiles/" + cardId.ToString() + ".png"; } }
         public string imgGold { get; set; }
         public int? attack { get; set; }
         public string race { get; set; }

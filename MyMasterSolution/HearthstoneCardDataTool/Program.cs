@@ -320,6 +320,8 @@ namespace MainConsole
             Console.WriteLine("Do you want to change the path for the CSV file?");
             Console.WriteLine("Enter Y for Yes or N for No");
 
+
+
             switch (Console.ReadKey().KeyChar.ToString().ToUpper())
             {
                 case "Y":
@@ -334,12 +336,25 @@ namespace MainConsole
 
             Directory.CreateDirectory(Path.GetDirectoryName(uriCsvFilePath.LocalPath));
             Console.WriteLine("\r\n");
-            Console.WriteLine("CSV will be created as: " + uriCsvFilePath.LocalPath + "HS_Cards.csv");
 
-            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + "HS_Cards.csv", FileMode.Create))
+
+            string filename = "";
+
+            if (isCollectible == 1)
+            {
+                filename = "HS_Cards.csv";
+            }
+            else
+            {
+                filename = "HS_Cards_All.csv"
+            }
+
+            Console.WriteLine("CSV will be created as: " + uriCsvFilePath.LocalPath + filename);
+
+            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + filename, FileMode.Create))
             using (TextWriter writer = new StreamWriter(fs))
             {
-                builder.Append("cardId,name,cardSet,type,rarity,text,playerClass,locale,mechanics,faction,health,collectible,img,imgGold,attack,race,cost,flavor,artist,howToGet,howToGetGold,durability,elite");
+                builder.Append("cardId,name,cardSet,type,rarity,text,playerClass,locale,mechanics,faction,health,collectible,img,imgSource,imgIcon,imgGold,attack,race,cost,flavor,artist,howToGet,howToGetGold,durability,elite");
 
                 Console.WriteLine("\r\n");
                 Console.WriteLine("WRITING header columns to CSV file...");
@@ -371,7 +386,7 @@ namespace MainConsole
                         builder.Append(" ");
                     }
 
-                    builder.Append("," + Escape(item.faction) + "," + Escape(item.health.ToString()) + "," + Escape(item.collectible.ToString()) + "," + Escape(item.img) + "," + Escape(item.imgGold) + "," + Escape(item.attack.ToString()) + "," + Escape(item.race) + "," + Escape(item.cost.ToString()) + "," + Escape(item.flavor) + "," + Escape(item.artist) + "," + Escape(item.howToGet) + "," + Escape(item.howToGetGold) + "," + Escape(item.durability.ToString()) + "," + Escape(item.elite.ToString()));
+                    builder.Append("," + Escape(item.faction) + "," + Escape(item.health.ToString()) + "," + Escape(item.collectible.ToString()) + "," + Escape(item.img) + "," + Escape(item.imgSource) + "," + Escape(item.imgIcon) + "," + Escape(item.imgGold) + "," + Escape(item.attack.ToString()) + "," + Escape(item.race) + "," + Escape(item.cost.ToString()) + "," + Escape(item.flavor) + "," + Escape(item.artist) + "," + Escape(item.howToGet) + "," + Escape(item.howToGetGold) + "," + Escape(item.durability.ToString()) + "," + Escape(item.elite.ToString()));
 
                     
                     writer.WriteLine(builder);
