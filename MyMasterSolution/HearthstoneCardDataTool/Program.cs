@@ -346,7 +346,7 @@ namespace MainConsole
             }
             else
             {
-                filename = "HS_Cards_All.csv"
+                filename = "HS_Cards_All.csv";
             }
 
             Console.WriteLine("CSV will be created as: " + uriCsvFilePath.LocalPath + filename);
