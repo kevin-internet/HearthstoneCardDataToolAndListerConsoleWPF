@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstonCardDataTool", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneCardLister", "HearthstoneCardLister\HearthstoneCardLister.csproj", "{B7C368AD-04D2-4378-879E-8F4827E4F8BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlReader", "ConsoleApp1\HtmlReader.csproj", "{E3B19EED-78CD-4F66-9C44-F3C088A074A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{B7C368AD-04D2-4378-879E-8F4827E4F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7C368AD-04D2-4378-879E-8F4827E4F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7C368AD-04D2-4378-879E-8F4827E4F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B19EED-78CD-4F66-9C44-F3C088A074A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B19EED-78CD-4F66-9C44-F3C088A074A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B19EED-78CD-4F66-9C44-F3C088A074A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B19EED-78CD-4F66-9C44-F3C088A074A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6D951C-4A08-4B95-AF81-66583AA1324E}
 	EndGlobalSection
 EndGlobal
