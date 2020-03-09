@@ -49,6 +49,8 @@ namespace MainConsole
 
         private static void DisplayConsoleUI()
         {
+            Console.Clear();
+
             Console.WriteLine("\r\n");
             Console.WriteLine("0 - Press 0 to download json card data from web api");
             Console.WriteLine("1 - Press 1 to download regular card images");
@@ -93,6 +95,8 @@ namespace MainConsole
 
         private static void DownloadJsonCardDataUI()
         {
+            Console.Clear();
+
             Console.WriteLine("\r\n");
             Console.WriteLine("Download Json card data?");
             Console.WriteLine("Y for Yes, N for No");
@@ -137,6 +141,7 @@ namespace MainConsole
 
         private static void DownloadAllRegularCardImages()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {
@@ -190,6 +195,7 @@ namespace MainConsole
 
         private static void DownloadAllGoldCardImages()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {
@@ -245,6 +251,7 @@ namespace MainConsole
 
         private static void LoadCardDataToDatabase()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {

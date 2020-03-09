@@ -76,3 +76,31 @@ F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Da
 F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.GenerateResource.Cache
 F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.exe
 F:\backup\myprojectfolder\card games projects\hearthstone project\Hearthstone Data Tool and Card List Source Code\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.pdb
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.xml
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe.config
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.exe
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardLister.pdb
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.dll
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\EntityFramework.dll
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.dll
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.pdb
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\HearthstonCardDataTool.exe.config
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.pdb
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\MahApps.Metro.xml
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\bin\Debug\Newtonsoft.Json.xml
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csprojAssemblyReference.cache
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.g.cs
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.g.cs
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.cache
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister_MarkupCompile.lref
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\App.baml
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\MainWindow.baml
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.g.resources
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\CardApp.Properties.Resources.resources
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.GenerateResource.cache
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.CoreCompileInputs.cache
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstoneCardLister.csproj.CopyComplete
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.exe
+C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardLister\obj\Debug\HearthstonCardLister.pdb

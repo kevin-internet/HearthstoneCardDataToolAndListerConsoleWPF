@@ -54,7 +54,6 @@ C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleW
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.xml
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\bin\Debug\Newtonsoft.Json.xml
-C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\HearthstonCardDataTool.csprojAssemblyReference.cache
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.InitialCreate.resources
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt.resources
 C:\Users\scrac\Source\Repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\HearthstoneCardDataTool\obj\Debug\MainConsole.Migrations.CardMechanicsIdInt2.resources

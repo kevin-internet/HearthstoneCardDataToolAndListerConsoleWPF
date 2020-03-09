@@ -102,6 +102,15 @@ namespace MainConsole.Classes
     {
     }
 
+    public class SaviorsofUldum : Card
+    {
+    }
+    public class DescentofDragons : Card
+    {
+    }
+    public class GalakrondsAwakening : Card
+    {
+    }
 
 
 
@@ -162,7 +171,14 @@ namespace MainConsole.Classes
         [JsonProperty("Rise of Shadows")]
         public List<RiseofShadows> RiseofShadows { get; set; }
 
+        [JsonProperty("Saviors of Uldum")]
+        public List<SaviorsofUldum> SaviorsofUldum { get; set; }
 
+        [JsonProperty("Descent of Dragons")]
+        public List<DescentofDragons> DescentofDragons { get; set; }
+
+        [JsonProperty("Galakrond's Awakening")]
+        public List<GalakrondsAwakening> GalakrondsAwakening { get; set; }
 
         public List<Mission> Missions { get; set; }
         public List<Credit> Credits { get; set; }

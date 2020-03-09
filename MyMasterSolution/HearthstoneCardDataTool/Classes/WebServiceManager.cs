@@ -74,7 +74,9 @@ namespace MainConsole.Classes
             listAllCards.AddRange(cards.TheBoomsdayProject);
             listAllCards.AddRange(cards.RastakhansRumbles);
             listAllCards.AddRange(cards.RiseofShadows);
-            //listAllCards.AddRange(cards.KnightsOfTheFrozenThrone);
+            listAllCards.AddRange(cards.SaviorsofUldum);
+            listAllCards.AddRange(cards.DescentofDragons);
+            listAllCards.AddRange(cards.GalakrondsAwakening);
 
             foreach (var item in listAllCards)
             {

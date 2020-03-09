@@ -1,7 +1,0 @@
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\obj\Debug\HtmlReader.csprojAssemblyReference.cache
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\obj\Debug\HtmlReader.csproj.CoreCompileInputs.cache
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\scrac\source\repos\scrachatron\HearthstoneCardDataToolAndListerConsoleWPF\MyMasterSolution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
