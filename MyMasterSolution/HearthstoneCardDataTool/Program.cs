@@ -49,6 +49,8 @@ namespace MainConsole
 
         private static void DisplayConsoleUI()
         {
+            Console.Clear();
+
             Console.WriteLine("\r\n");
             Console.WriteLine("0 - Press 0 to download json card data from web api");
             Console.WriteLine("1 - Press 1 to download regular card images");
@@ -93,6 +95,8 @@ namespace MainConsole
 
         private static void DownloadJsonCardDataUI()
         {
+            Console.Clear();
+
             Console.WriteLine("\r\n");
             Console.WriteLine("Download Json card data?");
             Console.WriteLine("Y for Yes, N for No");
@@ -137,6 +141,7 @@ namespace MainConsole
 
         private static void DownloadAllRegularCardImages()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {
@@ -190,6 +195,7 @@ namespace MainConsole
 
         private static void DownloadAllGoldCardImages()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {
@@ -245,6 +251,7 @@ namespace MainConsole
 
         private static void LoadCardDataToDatabase()
         {
+            Console.Clear();
             Console.WriteLine("\r\n");
             if (WebServiceManager.JSON_Content == null)
             {
@@ -320,6 +327,8 @@ namespace MainConsole
             Console.WriteLine("Do you want to change the path for the CSV file?");
             Console.WriteLine("Enter Y for Yes or N for No");
 
+
+
             switch (Console.ReadKey().KeyChar.ToString().ToUpper())
             {
                 case "Y":
@@ -334,12 +343,25 @@ namespace MainConsole
 
             Directory.CreateDirectory(Path.GetDirectoryName(uriCsvFilePath.LocalPath));
             Console.WriteLine("\r\n");
-            Console.WriteLine("CSV will be created as: " + uriCsvFilePath.LocalPath + "HS_Cards.csv");
 
-            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + "HS_Cards.csv", FileMode.Create))
+
+            string filename = "";
+
+            if (isCollectible == 1)
+            {
+                filename = "HS_Cards.csv";
+            }
+            else
+            {
+                filename = "HS_Cards_All.csv";
+            }
+
+            Console.WriteLine("CSV will be created as: " + uriCsvFilePath.LocalPath + filename);
+
+            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + filename, FileMode.Create))
             using (TextWriter writer = new StreamWriter(fs))
             {
-                builder.Append("cardId,name,cardSet,type,rarity,text,playerClass,locale,mechanics,faction,health,collectible,img,imgGold,attack,race,cost,flavor,artist,howToGet,howToGetGold,durability,elite");
+                builder.Append("cardId,name,cardSet,type,rarity,text,playerClass,locale,mechanics,faction,health,collectible,img,imgSource,imgIcon,imgGold,attack,race,cost,flavor,artist,howToGet,howToGetGold,durability,elite");
 
                 Console.WriteLine("\r\n");
                 Console.WriteLine("WRITING header columns to CSV file...");
@@ -371,7 +393,7 @@ namespace MainConsole
                         builder.Append(" ");
                     }
 
-                    builder.Append("," + Escape(item.faction) + "," + Escape(item.health.ToString()) + "," + Escape(item.collectible.ToString()) + "," + Escape(item.img) + "," + Escape(item.imgGold) + "," + Escape(item.attack.ToString()) + "," + Escape(item.race) + "," + Escape(item.cost.ToString()) + "," + Escape(item.flavor) + "," + Escape(item.artist) + "," + Escape(item.howToGet) + "," + Escape(item.howToGetGold) + "," + Escape(item.durability.ToString()) + "," + Escape(item.elite.ToString()));
+                    builder.Append("," + Escape(item.faction) + "," + Escape(item.health.ToString()) + "," + Escape(item.collectible.ToString()) + "," + Escape(item.img) + "," + Escape(item.imgSource) + "," + Escape(item.imgIcon) + "," + Escape(item.imgGold) + "," + Escape(item.attack.ToString()) + "," + Escape(item.race) + "," + Escape(item.cost.ToString()) + "," + Escape(item.flavor) + "," + Escape(item.artist) + "," + Escape(item.howToGet) + "," + Escape(item.howToGetGold) + "," + Escape(item.durability.ToString()) + "," + Escape(item.elite.ToString()));
 
                     
                     writer.WriteLine(builder);
@@ -379,6 +401,38 @@ namespace MainConsole
 
                 Console.WriteLine("\r\n");
                 Console.WriteLine("DONE writing CSV file.");
+            }
+
+            using (FileStream fs = new FileStream(uriCsvFilePath.LocalPath + "HS_Card_Mechanics.csv", FileMode.Create))
+            using (TextWriter writer = new StreamWriter(fs))
+            {
+                builder.Clear();
+                builder.Append("Mechanic_name,Card_cardId,cardMechanicId");
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("WRITING header columns to Mechanic CSV file...");
+                writer.WriteLine(builder);
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("WRITING rows to Mechanic CSV file...");
+
+                foreach (var item in listCards)
+                {
+                    if (item.mechanics != null)
+                    {
+                        for (int i = 0; i < item.mechanics.Count; i++)
+                        {
+
+                            builder.Clear();
+                            builder.Append(Escape(item.mechanics[i].name) + "," + Escape(item.cardId) + "," + Escape(item.mechanics[i].cardMechanicId.ToString()));
+
+                            writer.WriteLine(builder);
+                        }
+                    }
+                }
+
+                Console.WriteLine("\r\n");
+                Console.WriteLine("DONE writing mechanic CSV file.");
             }
 
             Console.WriteLine("\r\n");
